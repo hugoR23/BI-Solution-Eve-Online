@@ -1,6 +1,6 @@
 # BI-Solution-Eve-Online
 This project is a full BI Solution for merchant to manage their stock on Eve Online.
-The result of the project is a dashboard to provide informations on :
+The result of the project is a dashboard to provide information on :
  * What product to sell, when and at what price ?
  * What product to buy and when ?
  * KPI on the merchant business (revenue, profit, cost...)
